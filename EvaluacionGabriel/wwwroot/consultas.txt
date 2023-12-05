@@ -1,0 +1,44 @@
+::1 - 04/12/2023 10:51:33 -  /api/Equipos - GET
+
+::1 - 04/12/2023 10:51:43 -  /api/Jugadores/ListaJugadoresDetalles - GET
+
+::1 - 04/12/2023 10:53:47 -  /api/Equipos/PROBAR-EXCEPTION - GET
+
+::1 - 04/12/2023 10:54:27 -  /api/Equipos/PROBAR-EXCEPTION - GET
+
+::1 - 04/12/2023 10:54:48 -  /api/Equipos/PROBAR-EXCEPTION - GET
+
+::1 - 04/12/2023 11:11:41 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 11:12:27 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 11:24:31 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 11:24:37 -  /api/Equipos - GET
+
+::1 - 04/12/2023 11:26:34 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 11:26:46 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 11:27:10 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 11:29:11 -  /api/Equipos - GET
+
+::1 - 04/12/2023 11:29:17 -  /api/Equipos/PROBAR-EXCEPTION - GET
+
+::1 - 04/12/2023 11:29:40 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 11:29:45 -  /api/Jugadores/ListaJugadoresDetalles - GET
+
+::1 - 04/12/2023 11:29:50 -  /api/Jugadores/JugadoresLesionados - GET
+
+::1 - 04/12/2023 11:31:03 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 11:31:32 -  /api/Jugadores - GET
+
+::1 - 04/12/2023 12:11:50 -  /api/Jugadores - GET
+
+::1 - 05/12/2023 11:45:30 -  /index.html - GET
+
+::1 - 05/12/2023 11:45:30 -  /favicon.ico - GET
+

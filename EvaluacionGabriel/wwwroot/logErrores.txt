@@ -1,0 +1,20 @@
+EvaluacionGabriel
+Error deliberado
+::1 - 04/12/2023 10:54:49 -  /api/Equipos/PROBAR-EXCEPTION - GET
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'EvaluacionGabriel.Services.ReducirSueldo' while attempting to activate 'EvaluacionGabriel.Controllers.JugadoresController'.
+::1 - 04/12/2023 11:24:31 -  /api/Jugadores - GET
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'EvaluacionGabriel.Services.ReducirSueldo' while attempting to activate 'EvaluacionGabriel.Controllers.JugadoresController'.
+::1 - 04/12/2023 11:25:53 -  /api/Jugadores/reducirSueldoLesionados/10 - PUT
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'EvaluacionGabriel.Services.ReducirSueldo' while attempting to activate 'EvaluacionGabriel.Controllers.JugadoresController'.
+::1 - 04/12/2023 11:26:34 -  /api/Jugadores - GET
+
+EvaluacionGabriel
+Error deliberado
+::1 - 04/12/2023 11:29:17 -  /api/Equipos/PROBAR-EXCEPTION - GET
+
